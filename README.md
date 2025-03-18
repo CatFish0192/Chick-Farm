@@ -1,6 +1,6 @@
 （warehouse is not complete！）
 # Chick-Farm
-Chick Farm is a word game,developed and tested by "XJZY Development Group"
+Chick Farm is a word game,developed and tested by "XJZY Development Team"
 
 We are a team of junior high school students in China, WhiteCat is responsible for code development, and CatFish0192 is responsible for code testing, maintaining repositories and writing Wiki/Readme
 
